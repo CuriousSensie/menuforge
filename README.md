@@ -47,8 +47,8 @@
 
 
 ##  Getting Started
-- Go to https://menuforge.vercel.app/
 - Login or Signup
 - Crate your restaurant
 - Add your Menu
+- Customize your Pages easilyt
 - And that's it. Now you have flly functional admin and consumer sites for your restaurant.
